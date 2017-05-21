@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Bob",
+    "gender": "None",
+    "age": 23,
+    "pets": [
+      {
+        "name": "Garfield",
+        "type": "Cat"
+      },
+      {
+        "name": "Fido",
+        "type": "Dog"
+      }
+    ]
+  },
+  {
+    "name": "Jennifer",
+    "sex": "Female",
+    "age": 18,
+    "pets": [
+      {
+        "name": "Garfield",
+        "type": "Cat"
+      }
+    ]
+  },
+  {
+    "name": "Steve",
+    "sex": "Male",
+    "age": 45,
+    "pets": null
+  },
+  {
+    "name": "Fred",
+    "gender": "male",
+    "age": 40,
+    "pets": [
+      {
+        "name": "Tom",
+        "type": "Cat"
+      },
+      {
+        "name": "Max",
+        "type": "Cat"
+      },
+      {
+        "name": "Sam",
+        "type": "Dog"
+      },
+      {
+        "name": "Jim",
+        "type": "Cat"
+      }
+    ]
+  },
+  {
+    "name": "Samantha",
+    "gender": "female",
+    "age": 40,
+    "pets": [
+      {
+        "name": "Tabby",
+        "type": "Cat"
+      }
+    ]
+  },
+  {
+    "name": "Alice",
+    "gender": "Shemale",
+    "age": 64,
+    "pets": [
+      {
+        "name": "Simba",
+        "type": "Cat"
+      },
+      {
+        "name": "Nemo",
+        "type": "Fish"
+      }
+    ]
+  }
+]
